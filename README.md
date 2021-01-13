@@ -1,2 +1,2 @@
 # BugMemory
-Keep tracking to all remaining bugs
+MEAN Stack Blog Application With ReduxArchitecture  
